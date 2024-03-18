@@ -1,0 +1,43 @@
+{
+    "klupler": [
+        {
+            "klup_adi": "Kl\u00fcp Tony Stark Yolda\u015f\u0131m",
+            "kategori_id": 1219285857148604447,
+            "text_kanali_id": 1219285858709016648,
+            "ses_kanali_id": 1219285860613357691,
+            "rol_id": 1219285854481027203,
+            "uyeler": [
+                1066585947774386188
+            ]
+        },
+        {
+            "klup_adi": "Kl\u00fcp Tony Stark Yolda\u015f\u0131m",
+            "kategori_id": 1219287567162277989,
+            "text_kanali_id": 1219287568588476531,
+            "ses_kanali_id": 1219287570362535987,
+            "rol_id": 1219287564075405454,
+            "uyeler": [
+                1066585947774386188
+            ]
+        },
+        {
+            "klup_adi": "Kl\u00fcp deadjordeneme",
+            "kategori_id": 1219288314688049284,
+            "text_kanali_id": 1219288317464674325,
+            "ses_kanali_id": 1219288320215879700,
+            "rol_id": 1219288309789102120,
+            "uyeler": [
+                1108053806731767890
+            ]
+        }
+    ],
+    "teknoloty": {
+        "renk": "255,0,0"
+    },
+    "12": {
+        "renk": "4,102,57"
+    },
+    "aa": {
+        "renk": "#FF0000"
+    }
+}
